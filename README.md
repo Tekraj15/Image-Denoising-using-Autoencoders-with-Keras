@@ -1,5 +1,5 @@
 # Deep-Neural-Networks
-Implementation of
+Implementation of (...)
 # 1. Convolutional Neural Network
-# 1. RNN
-# 1. Recursive NN
+# 1. Recurrent Neural Network 
+# 1. Recursive Neural Network 
